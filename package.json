@@ -1,0 +1,23 @@
+{
+  "name": "tignumbergussing",
+  "version": "2.0.1",
+  "description": "",
+  "main": "kain.js",
+  "type": "module",
+  "bin": "kain.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahira Ibrahim",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
